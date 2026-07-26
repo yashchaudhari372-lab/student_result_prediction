@@ -1,5 +1,4 @@
-Flask
+Flask      
 numpy
 scikit-learn
-jinja2
 gunicorn
